@@ -1,4 +1,3 @@
 - ⚡ Programmed several games for Skoala education platform
 - 🎓 Student at FIT CTU, Theoretical computer science 
 - 🐹 At this moment tinkering with Golang
-- 🐻 My summer [fun](https://www.boot.dev/u/dass33)
