@@ -1,3 +1,2 @@
-- ⚡ Programmed several games for Skoala education platform
-- 🎓 Student at FIT CTU, Theoretical computer science 
-- 🐹 At this moment tinkering with Golang
+-  Programmed several games for Skoala education platform
+-  Student at FIT CTU, Theoretical computer science 
